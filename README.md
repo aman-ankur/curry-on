@@ -12,6 +12,8 @@ Serve this directory with any static HTTP server, or publish its root on GitHub 
 - `data.js`: meal options and illustrative product-label values
 - `app.js`: targets, activity schedule, label calculator and browser-only habit ticks
 - `styles.css`: responsive and print styles
+- `protein-fibre.html`: visual snack picker, Indian meal swaps, fibre routine, example day and prep guide
+- `protein-fibre.css` / `protein-fibre.js`: responsive cards, snack filters and print support; the full guide also works without JavaScript
 - `assets/`: original vector illustrations and downloadable visual guides
 
 ## Nutrition scope
